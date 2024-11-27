@@ -47,8 +47,10 @@ El sistema permite registrar información detallada de los pacientes, incluyendo
 #### **Dar de Alta**
 - Posibilidad de eliminar el registro del paciente al finalizar su tratamiento, marcándolo como dado de alta.
 
-#### **Visualizacion Del Menu**
+#### 📋**Visualizacion Del Menu**
 ![image](https://github.com/user-attachments/assets/2b504aac-c2d3-4246-ac9d-3fe99e1fe67c)
+
+
 ####**Diagnosticar:**
 Ahí se pedirá el DNI y Nombre para poder diagnosticar al paciente, hay que ingresar con los datos del “Paciente” para poder realizar un diagnóstico o dar de alta de forma efectiva y segura.
 
