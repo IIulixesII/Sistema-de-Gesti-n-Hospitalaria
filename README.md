@@ -60,6 +60,10 @@ Se podrán registrar paciente nuevos, la opción de registro y diagnóstico est�
 #### **Ver pacientes:** 
 serán visualizados todos los nombres de los pacientes que se hayan cargado en la base de datos para poder tener una visualización de estos.
 
+## 🤓 👆 **Diagrama Flujo**
+
+![image](https://github.com/user-attachments/assets/8bd21bd2-6af3-461d-9162-c66d7095bf08)
+
 
 ## 🚀 **Guía de Instalación**
 
