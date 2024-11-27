@@ -42,11 +42,20 @@ El sistema permite registrar información detallada de los pacientes, incluyendo
   - Descripción detallada de la condición.
   - Tratamientos y medicamentos recomendados.
   - Observaciones adicionales.
+    
 
 #### **Dar de Alta**
 - Posibilidad de eliminar el registro del paciente al finalizar su tratamiento, marcándolo como dado de alta.
 
----
+#### **Visualizacion Del Menu**
+![WhatsApp Image 2024-11-22 at 9 55 26 PM](https://github.com/user-attachments/assets/0080f98d-267d-436a-9c73-ee82818db474)
+####**Diagnosticar:**
+Ahí se pedirá el DNI y Nombre para poder diagnosticar al paciente, hay que ingresar con los datos del “Paciente” para poder realizar un diagnóstico o dar de alta de forma efectiva y segura.
+
+####**Registrar:** Se podrán registrar paciente nuevos, la opción de registro y diagnóstico están separados ya que se piense para un hospital real donde el recepcionista registra primero y luego el doctor Diagnostica 
+
+####**Ver pacientes:** serán visualizados todos los nombres de los pacientes que se hayan cargado en la base de datos para poder tener una visualización de estos.
+
 
 ## 🚀 **Guía de Instalación**
 
