@@ -47,7 +47,7 @@ El sistema permite registrar información detallada de los pacientes, incluyendo
 #### **Dar de Alta**
 - Posibilidad de eliminar el registro del paciente al finalizar su tratamiento, marcándolo como dado de alta.
 
-#### 📋**Visualizacion Del Menu**
+### 📋**Visualizacion Del Menu**
 ![image](https://github.com/user-attachments/assets/2b504aac-c2d3-4246-ac9d-3fe99e1fe67c)
 
 
