@@ -1,33 +1,55 @@
-Sistema de Gestión Hospitalaria
-El Sistema de Gestión Hospitalaria está diseñado para agilizar los procesos hospitalarios esenciales, como el registro de pacientes, la consulta de expedientes y la gestión de diagnósticos. Este sistema permite a recepcionistas y médicos acceder rápidamente a la información del paciente mediante su DNI y nombre, facilitando tareas críticas como el diagnóstico y el alta médica.
+# 🏥 **Sistema de Gestión Hospitalaria**
 
-Características principales
-🔒 Acceso exclusivo para empleados
-Sistema seguro y exclusivo para el personal hospitalario.
-Login obligatorio: se requiere ingresar las credenciales del paciente (DNI y nombre) para acceder a su expediente.
-Las consultas y acciones realizadas se registran automáticamente en el historial del sistema.
-📝 Registro de pacientes
-Datos registrados:
-DNI del paciente (identificador único).
-Nombre completo.
-Fecha de nacimiento.
-Motivo de ingreso, síntomas y observaciones iniciales.
-Expediente generado:
-El sistema crea automáticamente un expediente con un diagnóstico inicial vacío, que será actualizado tras la consulta médica.
-🔍 Consulta de pacientes
-Los empleados o médicos autorizados pueden buscar pacientes ingresando el DNI y nombre.
-Una vez validados los datos, se muestra el expediente completo del paciente, que incluye:
-Información personal.
-Diagnósticos previos, si están disponibles.
-🩺 Gestión médica del paciente
-Registrar diagnóstico
-Los médicos pueden añadir información médica relevante al expediente, como:
-Descripción detallada de la condición.
-Tratamientos recomendados.
-Medicamentos y observaciones adicionales.
-Dar de alta
-Posibilidad de dar de alta a pacientes, eliminando su registro del sistema tras finalizar su tratamiento.
-Imaginando su uso
-Esta aplicación ha sido diseñada pensando en un flujo eficiente y práctico para el entorno hospitalario. Desde la recepción hasta la consulta médica, el sistema agiliza el acceso y manejo de la información clave, garantizando seguridad y facilidad de uso.
+El **Sistema de Gestión Hospitalaria** es una herramienta diseñada para agilizar procesos esenciales en un entorno médico. Permite a recepcionistas y médicos gestionar información de pacientes de manera eficiente, desde su registro hasta su diagnóstico y alta médica.
 
-“Este sistema refleja cómo imaginé un proceso hospitalario digitalizado, simplificando la gestión y asegurando la eficiencia en los procedimientos críticos.”
+---
+
+## 📋 **Características Principales**
+
+### 🔒 **Acceso Exclusivo para Empleados**
+- Acceso restringido únicamente al personal hospitalario autorizado.
+- **Login obligatorio** para consultar información de pacientes.
+  - Credenciales necesarias: **DNI** y **nombre del paciente**.
+- Las acciones y consultas realizadas se registran automáticamente en el historial del sistema.
+
+---
+
+### 📝 **Registro de Pacientes**
+El sistema permite registrar información detallada de los pacientes, incluyendo:
+
+- **Datos registrados**:
+  - DNI (identificador único).
+  - Nombre completo.
+  - Fecha de nacimiento.
+  - Motivo de ingreso, síntomas y observaciones iniciales.
+
+- **Expediente generado automáticamente**:
+  - El sistema crea un expediente inicial con un diagnóstico vacío, que será actualizado tras la consulta médica.
+
+---
+
+### 🔍 **Consulta de Pacientes**
+- Los empleados y médicos autorizados pueden buscar pacientes ingresando el **DNI** y el **nombre**.
+- Una vez validados los datos, se muestra el expediente completo, que incluye:
+  - Información personal.
+  - Diagnósticos previos (si están disponibles).
+
+---
+
+### 🩺 **Gestión Médica del Paciente**
+#### **Registro de Diagnósticos**
+- Los médicos pueden actualizar el expediente del paciente con:
+  - Descripción detallada de la condición.
+  - Tratamientos y medicamentos recomendados.
+  - Observaciones adicionales.
+
+#### **Dar de Alta**
+- Posibilidad de eliminar el registro del paciente al finalizar su tratamiento, marcándolo como dado de alta.
+
+---
+
+## 🚀 **Guía de Instalación**
+
+### 1️⃣ **Clona el Repositorio**
+```bash
+git clone https://github.com/usuario/repositorio.git
